@@ -5,7 +5,7 @@ Hello there, welcome to my page. I will mainly be uploading projects/assignments
 If you have any questions regarding my uploads, add an issue/discussion and I will answer to the best of my ability. However, I do not expect to be very active on this account so just try your luck or contact me through my emails if you have them.
 
 ![Profile Banner](Profile_Banner.jpeg)
-<img src="Profile_Banner.jpeg" width="100" height="200">
+<img src="Profile_Banner.jpeg" width="400" height="800">
 <!--
 **EthanOngZY/EthanOngZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
