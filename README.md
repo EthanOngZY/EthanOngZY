@@ -1,6 +1,6 @@
 ## About this Profile
 
-Hello there, welcome to my page. I will mainly be uploading projects/assignments for courses I have taken in the past, especially for those that I found difficult or had low coverage online.
+Hello there, welcome to my page. I will mainly be uploading projects/assignments for courses I have taken in the past, specifically for those that I found difficult or had low coverage online.
 
 If you have any questions regarding my uploads, add an issue/discussion and I will answer to the best of my ability. However, I do not expect to be very active on this account so just try your luck or contact me through my emails if you have them.
 
